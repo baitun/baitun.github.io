@@ -7847,6 +7847,11 @@ react-scripts@2.0.4:
   optionalDependencies:
     fsevents "1.2.4"
 
+react-yandex-metrika@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/react-yandex-metrika/-/react-yandex-metrika-2.4.2.tgz#cf40df8db7192abf104585f4b4e98b37dbada3c8"
+  integrity sha512-UseTVfT6BFbJclauJy54avfoy1w4RyUZcAy3vk7Bz+ghosnfWsHIIhPg4z9U13tYqeHnYh8qMWeobYxOrdJgWw==
+
 react@^16.5.2:
   version "16.5.2"
   resolved "https://registry.yarnpkg.com/react/-/react-16.5.2.tgz#19f6b444ed139baa45609eee6dc3d318b3895d42"
